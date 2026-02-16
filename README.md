@@ -10,7 +10,6 @@ Pengalaman Belajar di Dicoding<br>
 
 Memulai Dasar Pemrograman untuk Menjadi Pengembang Software<br>
 15 Februari 2026
-Belajar kelas Memulai Pemrograman dengan Java. (Progres 21%)
 * Belajar teori dan metodologi dalam memahami kebutuhan aplikasi dari sisi pengguna beserta dari sisi spesifikasi teknis aplikasi. Implementasi keterampilan ke dalam studi kasus membuat kebutuhan aplikasi dari sisi pengguna maupun dari sisi spesifikasi teknis. Belajar tips sikap kerja saat meneliti, menganalisis, dan mengevaluasi kebutuhan aplikasi.
 * Belajar teori dan metodologi dalam pembuatan persyaratan kebutuhan aplikasi, dalam memahami cara aplikasi bekerja, dan dalam mengerti panduan diagram alur. Implementasi keterampilan ke dalam studi kasus membuat persyaratan kebutuhan aplikasi, memahami cara aplikasi berjalan, dan membuat diagram alur. Belajar sikap kerja ketika kolaborasi perencanaan aplikasi dalam sebuah tim.
 * Belajar teori sintaksis bahasa pemrograman, variabel, tipe data, logika komputer, dan bahasa pemrograman JavaScript versi ES6. Implementasi keterampilan dengan cara latihan menulis pseudocode dan menulis kode pertama. Belajar tips sikap kerja dalam belajar pemrograman.
