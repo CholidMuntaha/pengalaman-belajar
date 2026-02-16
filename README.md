@@ -1,6 +1,6 @@
 pengalaman-belajar
 ==
-Pengalaman Belajar di Dicoding
+Pengalaman Belajar di Dicoding<br>
 
 6 Februari 2026
 * Belajar istilah logika dan algoritma dan jenis-jenis logika pemrograman dasar.
@@ -8,7 +8,7 @@ Pengalaman Belajar di Dicoding
 * Belajar cara penyelesaian masalah menggunakan metode computational thinking meliputi, dekomposisi, pengenalan pola, abstraksi, penulisan algoritma, dan evaluasi.
 * Mengerti bagaimana ilmu logika pemrograman yang telah dipelajari dapat digunakan pada studi kasus yang nyata.
 
-Memulai Dasar Pemrograman untuk Menjadi Pengembang Software
+Memulai Dasar Pemrograman untuk Menjadi Pengembang Software<br>
 15 Februari 2026
 Belajar kelas Memulai Pemrograman dengan Java. (Progres 21%)
 * Belajar teori dan metodologi dalam memahami kebutuhan aplikasi dari sisi pengguna beserta dari sisi spesifikasi teknis aplikasi. Implementasi keterampilan ke dalam studi kasus membuat kebutuhan aplikasi dari sisi pengguna maupun dari sisi spesifikasi teknis. Belajar tips sikap kerja saat meneliti, menganalisis, dan mengevaluasi kebutuhan aplikasi.
